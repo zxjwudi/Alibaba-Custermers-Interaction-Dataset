@@ -16,3 +16,4 @@ Every interaction record contains a query, a customer ID, a product ID, a produc
 The attribute sets of this dataset contain both concrete product attributes and abstract product attributes.
 The product attributes of existing tend to be noisy, because most of the annotations are collected by crawling fashion product attribute-level descriptions or extracted from the title directly from large online shopping websites.
 Unlike these datasets, the attributes in our dataset are annotated manually by fashion and clothing experts.
+So the accuracy and quality of this dataset is very high.
