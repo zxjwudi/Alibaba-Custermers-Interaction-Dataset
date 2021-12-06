@@ -1,4 +1,5 @@
-# Alibaba-Custermers-Interaction-Dataset
+# CIC
+An **C**ustermers **I**nteraction Dataset of **C**lothing of Alibaba (CIC)
 
 
 ## Overview
@@ -17,3 +18,28 @@ The attribute sets of this dataset contain both concrete product attributes and 
 The product attributes of existing tend to be noisy, because most of the annotations are collected by crawling fashion product attribute-level descriptions or extracted from the title directly from large online shopping websites.
 Unlike these datasets, the attributes in our dataset are annotated manually by fashion and clothing experts.
 So the accuracy and quality of this dataset is very high.
+
+
+## Usage Notes
+Researchers who are interested in CIC dataset can access this dataset from the [**GoogleDrive**](https://drive.google.com/file/d/1IMf7JtDHmCrLkuUTiY79deiWzTZ62BzA/view?usp=sharing) and [**BaiDuYun**](https://pan.baidu.com/s/1HMM6t2RWuvPbvGwYP-TTNg) with code (9jqb). 
+
+
+## Citation
+
+If you find this dataset is helpful, please kindly consider citing the following papers:
+
+Zhao, Xuejiao, et al. "Heterogeneous star graph attention network for product attributes prediction." Advanced Engineering Informatics. 51, 101447. 2022. 
+
+```
+@article{ZHAO2022101447,
+title = {Heterogeneous star graph attention network for product attributes prediction},
+author = {Xuejiao Zhao and Yong Liu and Yonghui Xu and Yonghua Yang and Xusheng Luo and Chunyan Miao},
+journal = {Advanced Engineering Informatics},
+volume = {51},
+pages = {101447},
+year = {2022},
+publisher={Elsevier}
+}
+```
+
+If you have any questions or concerns, please kindly email to [**Xuejiao Zhao**](xjzhao@ntu.edu.sg).
