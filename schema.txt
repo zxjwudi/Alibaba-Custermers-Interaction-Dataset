@@ -1,0 +1,5 @@
+data schema（separate by '\t'）：
+
+interaction_session_id, customer_id, query, product_id, product_title, add cart or not(Y/N), buy or not(Y/N), attibute_category/attibute
+
+
