@@ -1,6 +1,8 @@
 # CIC
 An **C**ustermers **I**nteraction Dataset of **C**lothing of Alibaba (CIC)
 
+The paper named [Heterogeneous Star Graph Attention Network for Product Attributes Prediction](https://authors.elsevier.com/a/1eC1w5FA1j%7EB49) used this dataset and was accepted by [AEI](https://www.journals.elsevier.com/advanced-engineering-informatics). The official PyTorch implementation for this paper is [here](https://github.com/zxjwudi/SAN-for-Product-Attributes-Prediction). 
+
 
 ## Overview
 This customer interaction dataset is collected from the TaoBao.com of Alibaba. It is one of the most popular e-commerce websites in China.
